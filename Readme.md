@@ -44,17 +44,25 @@ using command line
 python final_wiki.py
 ```
 
+clone this repository and give the topic name and you are done.
+```
+git clone https://github.com/shankarj67/WikiParse.git
+```
+
 
 ## Usage
 
 ```
 import wikipedia
 wikipedia.summary("github")
-
-                        
-
-
+                       
 ```
+
+## Motivation
+
+* used to gather information for Business analyst in order to learn about any product.
+* You can also check many things using wiki api.
+* No need to search for topic one by one just add your topic in text file and you are done.
 
 
 ## Built With
@@ -69,9 +77,4 @@ wikipedia.summary("github")
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
-## Acknowledgments
-
-* used to gather information for Business analyst in order to learn about any product.
-* You can also check many things using wiki api.
-* No need to search for topic one by one just add your topic in text file and you are done.
 
